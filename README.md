@@ -26,6 +26,8 @@ Single-module MVP with clean-ish layers and MVVM:
 - `render3d`: OpenGL ES renderer and procedural primitive builder.
 - `di`: Hilt module wiring.
 
+**📚 New to Kotlin?** See [APP_STRUCTURE.md](APP_STRUCTURE.md) for a detailed explanation of the app folder structure, including all components, how they work together, and key Kotlin/Android concepts.
+
 ## Running the app
 
 1. Open the project in Android Studio.
